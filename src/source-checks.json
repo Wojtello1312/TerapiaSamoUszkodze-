@@ -1,0 +1,37 @@
+{
+  "dzieciom": {
+    "attemptedAt": "2026-11-11T02:03:32.279Z",
+    "verifiedAt": null,
+    "status": "blocked",
+    "httpStatus": "000",
+    "source": "https://dzieciom.pl/"
+  },
+  "siepomaga": {
+    "attemptedAt": "2026-11-11T02:03:32.296Z",
+    "verifiedAt": null,
+    "status": "blocked",
+    "httpStatus": "000",
+    "source": "https://www.siepomaga.pl/"
+  },
+  "eurordis": {
+    "attemptedAt": "2026-11-11T02:03:32.310Z",
+    "verifiedAt": null,
+    "status": "blocked",
+    "httpStatus": "000",
+    "source": "https://www.eurordis.org/"
+  },
+  "orphanet": {
+    "attemptedAt": "2026-11-11T02:03:32.323Z",
+    "verifiedAt": null,
+    "status": "blocked",
+    "httpStatus": "000",
+    "source": "https://www.orpha.net/"
+  },
+  "trials": {
+    "attemptedAt": "2026-11-11T02:03:32.337Z",
+    "verifiedAt": null,
+    "status": "blocked",
+    "httpStatus": "000",
+    "source": "https://clinicaltrials.gov/"
+  }
+}
